@@ -1,0 +1,3 @@
+courses = Ringtone
+team = cars
+testimonial = bikes
